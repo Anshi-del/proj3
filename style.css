@@ -1,0 +1,54 @@
+/* h1{
+    color:aqua
+}
+p{
+    color: rgb(0,0, 0);
+}
+button{
+    background-color: brown;
+    color: aqua;
+}
+body{
+    background-color: rgb(255,0, 0);
+} */
+ /* *{
+    color: rgb(217, 33, 33);
+ }
+
+ button{
+    color: rgb(189, 240, 21);
+ }
+
+ #one{
+    color:burlywood;
+ }
+ #two{
+    color:darkblue
+ }
+ #three{
+    color:indianred;
+ } */
+
+ /* multiple elemnt ke liye same class le skte   .classname */
+ /* div{
+    background-color: blue;
+ } */
+
+ /* #box{
+    background-color: brown;
+    color: rgb(154, 166, 176);
+ } */
+
+ /* .heading{
+    color: brown;
+ } */
+  /* p{
+    text-align: center;
+  }
+  h1{
+    color:chocolate;
+    text-decoration:  blue wavy underline;
+  font-weight: 100;   /*  between 100-900 and lighter bold bolder */ 
+ /* font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; */
+
+  /* } 
